@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **web development with CMS Drupal💧🤓.**
 
-- 🌱 I’m currently learning **Drupal and I am interested in getting into frontend development with React and Flutter😎🧑‍💻.**
+- 🌱 I’m currently learning **Drupal and I am interested in getting into frontend development with React and Vue😎🧑‍💻.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Levithan9812](https://github.com/Levithan9812)
 
