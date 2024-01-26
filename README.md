@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Levithan9812](https://github.com/Levithan9812)
 
-- 📫 How to reach me **jpparrac@gmail.com**
+- 📫 How to reach me **geisze3@gmail.com**
 
 - 📄 Know about my experiences [https://Levithan9812.github.io/](https://Levithan9812.github.io/)
 
