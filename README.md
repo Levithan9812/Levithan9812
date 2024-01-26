@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="gradient line" width="1024" height="" 
 <h1 align="center">Hi 👋, I'm Gerardo Zepeda</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78323&random=false&width=435&lines=Gerardo+Zepeda.....%F0%9F%98%81;A+self-taught+Full+Stack+Developer;Love+to+learn+new+stuffs...+%3C3;React+and+Vue+newbie" alt="Typing SVG" /></a>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+<br>
+<br>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
