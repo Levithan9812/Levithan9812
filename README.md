@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Gerardo Zepeda</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78323&random=false&width=435&lines=Gerardo+Zepeda.....%F0%9F%98%81;A+self-taught+Full+Stack+Developer;Love+to+learn+new+stuffs...+%3C3;React+and+Vue+newbie" alt="Typing SVG" /></a>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78323&random=false&width=435&lines=Gerardo+Zepeda.....%F0%9F%98%81;A+self-taught+Full+Stack+Developer;Love+to+learn+new+stuffs...+%3C3;React+and+Vue+newbie" alt="Typing SVG" /></a>
+</p>
+
+<br>
+<br>
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br>
-<br>
+
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
+- 🔭 I’m currently working on **web development with CMS Drupal💧🤓.**
 
+- 🌱 I’m currently learning **Drupal and I am interested in getting into frontend development with React and Flutter😎🧑‍💻.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Levithan9812](https://github.com/Levithan9812)
+
+- 📫 How to reach me **jpparrac@gmail.com**
+
+- 📄 Know about my experiences [https://Levithan9812.github.io/](https://Levithan9812.github.io/)
 
 <br><br>
 
@@ -305,12 +317,6 @@
       align="center"
       src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
       alt="https://www.linkedin.com/in/gerardo-zepeda-g98/" height="60" width="60" /></a>
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
-  <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
-      alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
   <img align="right" src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif"
       alt="https://www.instagram.com/juanpa.parra.ca/" height="60" width="60" />
 </p>
